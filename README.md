@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>BENSCHILLIBOWL Thread Synchronization Project</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.5; margin: 2rem; color: #111; }
-    code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
-    pre { background: #f6f8fa; padding: 1rem; border-radius: 6px; overflow: auto; }
-    h1, h2 { margin-top: 1.6rem; }
-    ul { margin: 0.5rem 0 1rem 1.25rem; }
-    .k { color: #0550ae; font-weight: 600; }
-  </style>
-</head>
-<body>
 
   <h1>BENSCHILLIBOWL Thread Synchronization Project</h1>
 
